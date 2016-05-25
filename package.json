@@ -1,0 +1,21 @@
+{
+  "name": "graphql-hello-world",
+  "version": "1.0.0",
+  "description": "A hello world using graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Pedro Marquez",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.2",
+    "should": "^8.4.0"
+  }
+}
